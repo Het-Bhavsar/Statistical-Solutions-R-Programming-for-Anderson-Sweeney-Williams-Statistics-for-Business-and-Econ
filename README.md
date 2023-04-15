@@ -1,5 +1,8 @@
 # Anderson Sweeney Williams Statistics for Business and Economics Solutions in R
 
+
+![image](https://user-images.githubusercontent.com/72739657/232233600-68d8108b-efa7-4347-8b0b-c80a09a70578.png)
+
 ## This repository provides solutions to the exercises in the book "Statistics for Business and Economics" by Anderson, Sweeney, and Williams, implemented in the R programming language. Additionally, a cheatsheet is provided to aid in learning R syntax and functions.
 
 Table of Contents
